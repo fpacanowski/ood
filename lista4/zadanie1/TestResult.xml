@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="singleton_test.dll" total="3" failures="0" not-run="0" date="2014-03-24" time="23:55:04">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.13.6.1" platform="Unix" cwd="/home/ixoth/studia/Projektowanie Obiektowe Oprogramowania/lista4/zadanie1" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="singleton_test.dll" success="True" time="5.036" asserts="0">
+    <results>
+      <test-suite name="SingletonsTest" success="True" time="5.025" asserts="0">
+        <results>
+          <test-case name="SingletonsTest.SingletonTest" executed="True" success="True" time="0.008" asserts="2" />
+          <test-case name="SingletonsTest.ThreadSingletonTest" executed="True" success="True" time="0.002" asserts="3" />
+          <test-case name="SingletonsTest.TimedSingletonTest" executed="True" success="True" time="5.002" asserts="4" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

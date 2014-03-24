@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="factory_test.dll" total="3" failures="0" not-run="0" date="2013-04-16" time="21:30:55">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.7.10.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista4/zadanie2" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="factory_test.dll" success="True" time="0.053" asserts="0">
+    <results>
+      <test-suite name="FactoryTest" success="True" time="0.022" asserts="0">
+        <results>
+          <test-case name="FactoryTest.BuildingObject" executed="True" success="True" time="0.008" asserts="1" />
+          <test-case name="FactoryTest.BuildingObjectWithParams" executed="True" success="True" time="0.001" asserts="1" />
+          <test-case name="FactoryTest.BuildingSingletonObject" executed="True" success="True" time="0.001" asserts="1" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

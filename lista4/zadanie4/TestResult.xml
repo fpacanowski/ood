@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="builder_test.dll" total="3" failures="0" not-run="0" date="2013-04-17" time="12:17:25">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.7.10.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista4/zadanie4" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="builder_test.dll" success="True" time="0.055" asserts="0">
+    <results>
+      <test-suite name="TagBuilderTest" success="True" time="0.026" asserts="0">
+        <results>
+          <test-case name="TagBuilderTest.NoIndent" executed="True" success="True" time="0.013" asserts="1" />
+          <test-case name="TagBuilderTest.SomeIndent" executed="True" success="True" time="0.000" asserts="1" />
+          <test-case name="TagBuilderTest.ZeroSizeIndent" executed="True" success="True" time="0.000" asserts="1" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

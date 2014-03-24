@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="state_test.dll" total="4" failures="0" not-run="0" date="2013-05-21" time="13:34:10">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.8.11.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista8/zadanie4" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="state_test.dll" success="True" time="0.049" asserts="0">
+    <results>
+      <test-suite name="StateTest" success="True" time="0.019" asserts="0">
+        <results>
+          <test-case name="StateTest.OrderingCoffee" executed="True" success="True" time="0.004" asserts="1" />
+          <test-case name="StateTest.PayForCoffee" executed="True" success="True" time="0.001" asserts="3" />
+          <test-case name="StateTest.TakeCoffeeBeforeOrdering" executed="True" success="True" time="0.001" asserts="0" />
+          <test-case name="StateTest.WholeTransaction" executed="True" success="True" time="0.000" asserts="1" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

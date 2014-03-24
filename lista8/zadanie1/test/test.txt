@@ -1,0 +1,19 @@
+This file describes what to do with the .bz2 files you see elsewhere
+on this site (ftp.kernel.org).
+
+.bz2 files are created by bzip2, a file compressor written by Julian
+Seward.  bzip2 is a freely available (GPL'd) data compressor, with a
+user interface similar to that of GNU gzip.  For further details, the
+bzip2 home page is at:
+
+	http://sources.redhat.com/bzip2/
+
+The bzip2 software is available at:
+
+	ftp://sources.redhat.com/pub/bzip2/
+
+bzip2 is no longer maintained at kernel.org; however, we have a mirror
+of it at:
+
+	ftp://mirrors.kernel.org/sources.redhat.com/bzip2/
+

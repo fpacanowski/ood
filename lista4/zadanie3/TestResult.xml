@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="pool_test.dll" total="2" failures="0" not-run="0" date="2013-04-16" time="22:17:10">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.7.10.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista4/zadanie3" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="pool_test.dll" success="True" time="0.050" asserts="0">
+    <results>
+      <test-suite name="AirportTest" success="True" time="0.021" asserts="0">
+        <results>
+          <test-case name="AirportTest.AcquireAndReleasePlane" executed="True" success="True" time="0.008" asserts="3" />
+          <test-case name="AirportTest.EmptyAirport" executed="True" success="True" time="0.001" asserts="0" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

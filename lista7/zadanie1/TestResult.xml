@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="chain_of_responsibility_test.dll" total="1" failures="0" not-run="0" date="2013-05-15" time="11:51:21">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.8.11.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista7/zadanie1" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="chain_of_responsibility_test.dll" success="True" time="0.049" asserts="0">
+    <results>
+      <test-suite name="Chain" success="True" time="0.013" asserts="0">
+        <results>
+          <test-case name="Chain.ProcessMail" executed="True" success="True" time="0.009" asserts="5" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

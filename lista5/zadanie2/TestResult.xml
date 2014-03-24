@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="decorator_test.dll" total="1" failures="0" not-run="0" date="2013-04-22" time="15:33:07">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 3.7.10.1" platform="Unix" cwd="/home/ixoth/studia/poo/lista5/zadanie2" machine-name="lenovo" user="ixoth" user-domain="lenovo" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="decorator_test.dll" success="True" time="0.048" asserts="0">
+    <results>
+      <test-suite name="CaesarTest" success="True" time="0.015" asserts="0">
+        <results>
+          <test-case name="CaesarTest.Caesar" executed="True" success="True" time="0.008" asserts="2" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
